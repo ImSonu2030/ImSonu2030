@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS & JS**
 
-- 📫 Reach me at **kusan_yubin@pm.me**
+- 📫 Reach me at Email: **kusan_yubin@pm.me**
 
 - ⚡ Fun fact I hate the world cuz It's not perfect 😅**
 
