@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kusan</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Kusan</h1>
 
 <h3 align="center">A young-buddy🤓 front end developer from India 🇮🇳, who happen to love Web technology</h3>
 
@@ -33,11 +33,15 @@ Working on My Portfolio, so soon You can See all my Project from one Place.
   <a href="https://www.w3schools.com/sass/default.php" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://git-scm.com/downloads" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git version control system" width="40" height="40"/></a>
+  <a href="https://github.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40"/></a>
+  <a href="https://ubuntu.com/download/desktop" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu Linux" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/download" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Github" width="40" height="40"/></a>
 </p>
 
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Kusankumar&show_icons=true alt=Kusankumar /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kusankumar&show_icons=true&theme=vue-dark" alt=Kusankumar /> </p>
 
 <!---
 Kusankumar/Kusankumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
