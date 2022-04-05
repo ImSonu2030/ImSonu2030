@@ -18,11 +18,18 @@
 - ⚡ Fun fact I hate the world cuz It's not perfect 😅**
 
 Working on My Portfolio, so soon You can See all my Project from one Place.
+<h3>Resource</h3>
+
+- <a href="https://www.w3schools.com/">W3school</a>
+
+- <a href="https://www.freecodecamp.org/">FreeCodeCamp</a>
+
+- <a href="https://developer.mozilla.org/">MDN web_Docs</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kusan_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Kusan" height="30" width="40" /></a>
-<a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kusan" height="30" width="40" /></a>
+<a href="https://twitter.com/@malubulu_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Kusan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kusan2030/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kusan" height="30" width="40" /></a>
   <a href="mailto:kusan_yubin@pm.me" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Kusan" height="30" width="40" /></a>
 </p>
 
