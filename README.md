@@ -5,7 +5,9 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Kusankumar alt=Kusankumar/> </p>
 
 <p align="left"> <a href="https://twitter.com/kusan_dev" target="blank"></a> </p>
+<img align="right" alt="I'm a Programmer" width="400" src="https://c.tenor.com/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif">
 
+- 🌱 I’m currently learning **JS Library, & more about Backend Web Technology.**
 
 - 🤔 I believe Every day is a learning day.
 
