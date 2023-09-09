@@ -1,4 +1,4 @@
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40"> I'm Kusan</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40"> I'm Sonu</h1>
 
 <h3 align="center">A young-buddy🤓 front end developer from India 🇮🇳, who happen to love Web technology</h3>
 
